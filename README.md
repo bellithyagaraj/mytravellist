@@ -1,3 +1,6 @@
+# About the application
+This project allows you to make and maintain a travel list for your next trip. You can add the items you would like to bring to your trip. You can also delete the items that are packed and this way you can keep a track of your packing items.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
